@@ -1,0 +1,13 @@
+# xlit-tool - Cross-platform Desktop Transliteration Tool
+# 
+# Core Dependencies
+wxpython>=4.0.0
+
+# Development Dependencies (optional)
+# pytest>=6.0.0              # For additional testing
+# black>=21.0.0               # For code formatting
+# flake8>=3.8.0               # For linting
+
+# Note: This application has minimal dependencies by design
+# Only wxPython is required for the GUI framework
+# All transliteration logic is implemented in pure Python
