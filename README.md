@@ -330,7 +330,7 @@ python comprehensive_test_suite.py --summary
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+GNU Affero General Public License, v3 - see [LICENSE](LICENSE) file for details.
 
 This transliteration application is designed for educational and practical use in text processing and language conversion tasks.
 
